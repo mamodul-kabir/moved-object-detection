@@ -19,7 +19,7 @@ Ensure your project directory is organized as follows:
 │   └── train.py
 ├── data
 │   ├── base
-│   ├── matched_annotations
+│   └── matched_annotations
 ├── report.pdf
 └── README.md
 ```
